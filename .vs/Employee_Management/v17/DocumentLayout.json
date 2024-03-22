@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\migrations\\20240321184241_initial-way.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\migrations\\20240321184241_initial-way.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\automapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\automapper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Migrations\\20240321160809_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee_Management\\Migrations\\20240321160809_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|d:\\asp dotnet\\assignment-2\\employee_management\\employee_management\\employee_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C221B5C1-CD3D-4A15-AB80-6B7D31BCCDAB}|Employee_Management\\Employee_Management.csproj|solutionrelative:employee_management\\employee_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\d9ed6a6d6bd1ba02d57365e70d143bc43d87345ad7dfcf410c6bbb87befdfb97\\DepartmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Data\\DataContext.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Data\\DataContext.cs",
+              "RelativeToolTip": "Employee_Management\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:50:15.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Dto\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Dto\\DepartmentDto.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Dto\\DepartmentDto.cs",
+              "RelativeToolTip": "Employee_Management\\Dto\\DepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:47:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Dto\\EmployeeDto.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "Employee_Management\\Dto\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:31:28.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee_Management\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:43:07.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240321184241_initial-way.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Migrations\\20240321184241_initial-way.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Migrations\\20240321184241_initial-way.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Migrations\\20240321184241_initial-way.cs",
+              "RelativeToolTip": "Employee_Management\\Migrations\\20240321184241_initial-way.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:42:41.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Employee_Management\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:43:29.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Program.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Program.cs",
+              "RelativeToolTip": "Employee_Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:30:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Entities\\Department.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Entities\\Department.cs",
+              "RelativeToolTip": "Employee_Management\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:04:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\AutoMapper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\AutoMapper\\MappingProfiles.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\AutoMapper\\MappingProfiles.cs",
+              "RelativeToolTip": "Employee_Management\\AutoMapper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:05:50.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Entities\\Employee.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Entities\\Employee.cs",
+              "RelativeToolTip": "Employee_Management\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:03:57.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240321160809_initial.cs",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Migrations\\20240321160809_initial.cs",
+              "RelativeDocumentMoniker": "Employee_Management\\Migrations\\20240321160809_initial.cs",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Migrations\\20240321160809_initial.cs",
+              "RelativeToolTip": "Employee_Management\\Migrations\\20240321160809_initial.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:08:10.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee_Management.csproj",
+              "DocumentMoniker": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
+              "RelativeDocumentMoniker": "Employee_Management\\Employee_Management.csproj",
+              "ToolTip": "D:\\ASP DotNet\\Assignment-2\\Employee_Management\\Employee_Management\\Employee_Management.csproj",
+              "RelativeToolTip": "Employee_Management\\Employee_Management.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T09:46:36.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\d9ed6a6d6bd1ba02d57365e70d143bc43d87345ad7dfcf410c6bbb87befdfb97\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\d9ed6a6d6bd1ba02d57365e70d143bc43d87345ad7dfcf410c6bbb87befdfb97\\DepartmentController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:54:17.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
